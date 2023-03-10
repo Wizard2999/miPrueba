@@ -5,8 +5,18 @@ body{
 
 #container{
     width: 70%;
+    color: rgb(1, 14, 14);
     padding: 1rem;
     text-align: left;
     border: 1px solid black;
     margin: 0 auto;
+}
+
+#cabecera{
+    background:#33A;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: rgb(2, 14, 26);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em ;
 }
