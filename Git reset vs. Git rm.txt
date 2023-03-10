@@ -1,5 +1,5 @@
 Git reset y git rm son comandos con utilidades muy diferentes, pero se pueden confundir muy fácilmente.
-
+Acabao de agregar otra cosita jejejejeje
 git rm
 Este comando nos ayuda a eliminar archivos de Git sin eliminar su historial del sistema de versiones. 
 Esto quiere decir que si necesitamos recuperar el archivo solo debemos “viajar en el tiempo” y recuperar el último commit antes de borrar el archivo en cuestión.
